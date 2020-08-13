@@ -21,6 +21,8 @@ public class HelloWorld {
     }
 
     public void test2(){
+        System.out.println("Hello World");
+
         return;
     }
 }
