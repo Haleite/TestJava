@@ -21,6 +21,7 @@ public class HelloWorld {
     }
 
     public void test2(){
+        Date d = new Date();
         return;
     }
 }
