@@ -18,6 +18,9 @@ public class HelloWorld {
     public void test1(){
         new ArrayList();
         return;
+    }
+
+    public void test2(){
         return;
     }
 }
